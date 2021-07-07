@@ -1,0 +1,2 @@
+"# DjangoNewsSite" 
+"# Django" 
